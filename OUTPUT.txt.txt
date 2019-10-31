@@ -1,0 +1,17 @@
+Author information:
+	
+	Name: Hassan Shahzad
+	CMS# 211798
+	Section: BSCS - 7C
+
+Explanation of Project:
+	The program takes a ppm image from user as input, displays a menu to the user
+showing various image effects and applies the effects as per user's choice.
+
+Difficulties faced:
+	None
+
+Comments / suggestions:
+	The task was very helpful in giving an idea how real life world problems
+can be solved through programming and how great programs can be built from
+scratch.
